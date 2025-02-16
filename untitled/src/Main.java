@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-awdadw
+        int n = 2;
     }
 }
